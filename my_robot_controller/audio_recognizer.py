@@ -19,11 +19,15 @@ class AudioRecognizerNode(Node):
         
         # Initialize WhisperMic for transcription using the "medium.en" model
         self.whisper_mic = WhisperMic(model="small.en", device="cpu")
+
+        # Get the full path for the model
+        current_path = os.getcwd()
+        model_name = 'bert_model'
+        model_path = os.path.join(current_path, model_name)
         
         # Initialize BERT model and tokenizer for instruction classification
-        MODEL_NAME = '/home/dani/ros2_ws/src/my_robot_controller/my_robot_controller/bert_model' 
-        self.tokenizer = BertTokenizer.from_pretrained(MODEL_NAME)
-        self.model = BertForSequenceClassification.from_pretrained(MODEL_NAME)
+        self.tokenizer = BertTokenizer.from_pretrained(model_path)
+        self.model = BertForSequenceClassification.from_pretrained(model_path)
         self.model.eval() 
         
         # Set the device to CPU
