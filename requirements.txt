@@ -1,0 +1,12 @@
+pandas
+numpy
+transformers
+torch
+tqdm
+scikit-learn
+matplotlib
+sounddevice
+thread6
+regex
+whisper-mic
+python-math
