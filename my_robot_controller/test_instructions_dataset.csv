@@ -1,0 +1,1101 @@
+label,instruction
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,take off
+0,launch
+0,become airborne
+0,become airborne
+0,depart
+0,launch
+0,become airborne
+0,blast off
+0,blast off
+0,take off
+0,depart
+0,take off
+0,depart
+0,become airborne
+0,blast off
+0,launch
+0,blast off
+0,depart
+0,blast off
+0,blast off
+0,become airborne
+0,depart
+0,launch
+0,become airborne
+0,depart
+0,launch
+0,launch
+0,become airborne
+0,become airborne
+0,depart
+0,become airborne
+0,blast off
+0,take off
+0,launch
+0,take off
+0,depart
+0,take off
+0,blast off
+0,take off
+0,take off
+0,take off
+0,depart
+0,launch
+0,depart
+0,take off
+0,blast off
+0,take off
+0,take off
+0,launch
+0,blast off
+0,become airborne
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,land
+1,arrive
+1,dismount
+1,alight
+1,touch ground
+1,land
+1,rest
+1,touch ground
+1,earth
+1,touch ground
+1,rest
+1,touch down
+1,settle
+1,settle
+1,earth
+1,earth
+1,dismount
+1,settle
+1,touch ground
+1,dismount
+1,rest
+1,land
+1,alight
+1,touch down
+1,rest
+1,touch down
+1,rest
+1,dismount
+1,earth
+1,land
+1,earth
+1,touch ground
+1,settle
+1,dismount
+1,touch down
+1,land
+1,land
+1,touch down
+1,settle
+1,rest
+1,alight
+1,touch ground
+1,arrive
+1,earth
+1,arrive
+1,land
+1,touch ground
+1,settle
+1,rest
+1,alight
+1,touch ground
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,go up
+2,move upward
+2,lift
+2,climb
+2,scale
+2,scale
+2,move upward
+2,go up
+2,soar
+2,scale
+2,rise
+2,uplift
+2,soar
+2,scale
+2,skyward
+2,go up
+2,lift
+2,go up
+2,ascend
+2,lift
+2,go up
+2,climb
+2,scale
+2,move upward
+2,scale
+2,climb
+2,go up
+2,soar
+2,skyward
+2,go up
+2,uplift
+2,climb
+2,climb
+2,ascend
+2,rise
+2,scale
+2,uplift
+2,move upward
+2,soar
+2,rise
+2,lift
+2,uplift
+2,soar
+2,lift
+2,move upward
+2,scale
+2,scale
+2,lift
+2,soar
+2,climb
+2,go up
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,go down
+3,sink
+3,dip
+3,move downward
+3,plunge
+3,move downward
+3,drop
+3,go down
+3,dive
+3,drop
+3,fall
+3,move downward
+3,plunge
+3,dive
+3,drop
+3,plunge
+3,drop
+3,dive
+3,fall
+3,descend
+3,descend
+3,descend
+3,sink
+3,go down
+3,plunge
+3,fall
+3,fall
+3,drop
+3,dip
+3,move downward
+3,fall
+3,go down
+3,go down
+3,go down
+3,go down
+3,descend
+3,go down
+3,drop
+3,sink
+3,plunge
+3,plunge
+3,plunge
+3,plunge
+3,fall
+3,fall
+3,fall
+3,descend
+3,plunge
+3,dive
+3,move downward
+3,plunge
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,go forward
+4,advance
+4,travel forward
+4,progress
+4,push forward
+4,push forward
+4,push forward
+4,progress
+4,advance
+4,progress
+4,move forward
+4,proceed
+4,push forward
+4,push forward
+4,progress
+4,go forward
+4,progress
+4,move forward
+4,advance
+4,move forward
+4,advance
+4,advance
+4,move ahead
+4,travel forward
+4,advance
+4,progress
+4,proceed
+4,progress
+4,push forward
+4,progress
+4,progress
+4,go forward
+4,travel forward
+4,proceed
+4,push forward
+4,move ahead
+4,advance
+4,go forward
+4,go forward
+4,move forward
+4,push forward
+4,push forward
+4,push forward
+4,go forward
+4,advance
+4,go forward
+4,move forward
+4,move ahead
+4,move ahead
+4,progress
+4,go forward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,go backward
+5,draw back
+5,go backward
+5,back up
+5,reverse
+5,retreat
+5,go backward
+5,reverse
+5,back up
+5,go backward
+5,back up
+5,retrocede
+5,draw back
+5,go backward
+5,move backward
+5,withdraw
+5,back up
+5,back up
+5,back up
+5,go backward
+5,move backward
+5,back up
+5,move backward
+5,retreat
+5,withdraw
+5,draw back
+5,back up
+5,retreat
+5,reverse
+5,move backward
+5,reverse
+5,move backward
+5,back up
+5,go backward
+5,go backward
+5,retreat
+5,draw back
+5,go backward
+5,withdraw
+5,go backward
+5,go backward
+5,withdraw
+5,back up
+5,retrocede
+5,retreat
+5,move backward
+5,retreat
+5,withdraw
+5,move backward
+5,move backward
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,move right
+6,strafe right
+6,move right
+6,move right
+6,glide right
+6,sidestep right
+6,sidestep right
+6,glide right
+6,sidestep right
+6,go to the right
+6,glide right
+6,shift right
+6,strafe right
+6,slide right
+6,move right
+6,scoot right
+6,sidestep right
+6,move right
+6,shift right
+6,move right
+6,move right
+6,scoot right
+6,move right
+6,go to the right
+6,sidestep right
+6,glide right
+6,slide right
+6,go to the right
+6,strafe right
+6,glide right
+6,scoot right
+6,go to the right
+6,slide right
+6,slide right
+6,go to the right
+6,move right
+6,strafe right
+6,scoot right
+6,glide right
+6,slide right
+6,strafe right
+6,sidestep right
+6,move right
+6,sidestep right
+6,move right
+6,strafe right
+6,shift right
+6,strafe right
+6,strafe right
+6,slide right
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,move left
+7,glide left
+7,sidestep left
+7,slide left
+7,go to the left
+7,go to the left
+7,go to the left
+7,strafe left
+7,scoot left
+7,strafe left
+7,glide left
+7,shift left
+7,move left
+7,glide left
+7,go to the left
+7,shift left
+7,slide left
+7,strafe left
+7,glide left
+7,shift left
+7,strafe left
+7,sidestep left
+7,move left
+7,scoot left
+7,slide left
+7,glide left
+7,slide left
+7,scoot left
+7,glide left
+7,shift left
+7,go to the left
+7,glide left
+7,strafe left
+7,glide left
+7,strafe left
+7,sidestep left
+7,shift left
+7,strafe left
+7,move left
+7,slide left
+7,move left
+7,sidestep left
+7,strafe left
+7,slide left
+7,glide left
+7,shift left
+7,go to the left
+7,slide left
+7,sidestep left
+7,move left
+7,move left
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,turn right
+8,pivot right
+8,twist right
+8,turn right
+8,veer right
+8,angle right
+8,pivot right
+8,pivot right
+8,turn right
+8,angle right
+8,veer right
+8,angle right
+8,swivel right
+8,rotate clockwise
+8,swivel right
+8,rotate clockwise
+8,steer right
+8,pivot right
+8,turn right
+8,rotate clockwise
+8,swivel right
+8,steer right
+8,rotate right
+8,pivot right
+8,twist right
+8,twist right
+8,turn right
+8,angle right
+8,rotate clockwise
+8,rotate right
+8,angle right
+8,pivot right
+8,veer right
+8,swivel right
+8,angle right
+8,pivot right
+8,swivel right
+8,steer right
+8,swivel right
+8,steer right
+8,rotate clockwise
+8,twist right
+8,swivel right
+8,rotate clockwise
+8,angle right
+8,veer right
+8,twist right
+8,veer right
+8,pivot right
+8,rotate clockwise
+8,pivot right
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,turn left
+9,twist left
+9,turn left
+9,swivel left
+9,veer left
+9,rotate counterclockwise
+9,swivel left
+9,turn left
+9,turn left
+9,veer left
+9,rotate left
+9,swivel left
+9,angle left
+9,rotate left
+9,veer left
+9,turn left
+9,veer left
+9,turn left
+9,steer left
+9,rotate left
+9,rotate left
+9,swivel left
+9,steer left
+9,angle left
+9,rotate counterclockwise
+9,angle left
+9,angle left
+9,rotate left
+9,twist left
+9,turn left
+9,angle left
+9,steer left
+9,angle left
+9,twist left
+9,pivot left
+9,rotate left
+9,pivot left
+9,swivel left
+9,angle left
+9,twist left
+9,rotate counterclockwise
+9,swivel left
+9,pivot left
+9,swivel left
+9,turn left
+9,angle left
+9,steer left
+9,pivot left
+9,steer left
+9,veer left
+9,turn left
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,stop
+10,halt
+10,discontinue
+10,pause
+10,stop
+10,discontinue
+10,pause
+10,pause
+10,discontinue
+10,freeze
+10,suspend
+10,end
+10,stop
+10,suspend
+10,discontinue
+10,pause
+10,cease
+10,discontinue
+10,suspend
+10,freeze
+10,come to a halt
+10,cease
+10,halt
+10,come to a halt
+10,stand still
+10,freeze
+10,stand still
+10,stop
+10,cease
+10,cease
+10,halt
+10,freeze
+10,stop
+10,freeze
+10,suspend
+10,discontinue
+10,halt
+10,freeze
+10,come to a halt
+10,end
+10,cease
+10,end
+10,discontinue
+10,stop
+10,suspend
+10,cease
+10,stop
+10,suspend
+10,come to a halt
+10,cease
+10,stop
