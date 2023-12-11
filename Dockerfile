@@ -55,8 +55,7 @@ RUN pip install -r requirements.txt
 RUN mkdir -p /home/ros2_ws/src/ && cd /home/ros2_ws/src && \
     git clone https://github.com/PX4/px4_msgs.git && \
     git clone https://github.com/Danics99/my_robot_controller.git && \
-    . /opt/ros/humble/setup.bash && \
-    . /home/ros2_ws/install/setup.bash && \  
+    . /opt/ros/humble/setup.sh && \ 
     cd .. && colcon build
 
 # Copy data into the container
