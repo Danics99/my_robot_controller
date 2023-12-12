@@ -27,6 +27,3 @@ You can use the following instructions and synonyms with or without a given valu
 - Turn left
 - Stop
 
-## Docker
-- Build docker image with using the Dockerfile with ```docker build -t image_name .``` where image_name is the name you want to put to the image.
-- Run the image with ```docker run -it   --net=host   --env="DISPLAY"   --env="PULSE_SERVER=unix:${XDG_RUNTIME_DIR}/pulse/native"   --volume="${XDG_RUNTIME_DIR}/pulse/native:${XDG_RUNTIME_DIR}/pulse/native"   --volume="$HOME/.config/pulse/cookie:/root/.config/pulse/cookie"   --volume="$HOME/.pulse-cookie:/root/.pulse-cookie" --privileged  image_id``` where image_id is the id of the built image.
