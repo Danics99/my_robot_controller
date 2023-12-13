@@ -17,7 +17,7 @@ class AudioRecognizerNode(Node):
         self.feedback_publisher_ = self.create_publisher(String, 'system_feedback', 10)
         self.timer = self.create_timer(0.1, self.timer_callback)
         
-        # Initialize WhisperMic for transcription using the "medium.en" model
+        # Initialize WhisperMic for transcription using the "small.en" model
         self.whisper_mic = WhisperMic(model="small.en", device="cpu")
 
         # Get the full path for the model
