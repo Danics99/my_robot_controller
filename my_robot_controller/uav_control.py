@@ -166,11 +166,12 @@ class DroneControllerNode(Node):
         self.get_logger().info("Switching to offboard mode")
 
     def arm(self):
+        # Send an arm command to the vehicle
         self.publish_vehicle_command(VehicleCommand.VEHICLE_CMD_COMPONENT_ARM_DISARM, param1=1.0)
         self.get_logger().info("Arming drone.")
 
     def disarm(self):
-        # Send a disarm command to the vehicle.
+        # Send a disarm command to the vehicle
         self.publish_vehicle_command(VehicleCommand.VEHICLE_CMD_COMPONENT_ARM_DISARM, param1=0.0)
         self.get_logger().info('Disarm command sent')
 
