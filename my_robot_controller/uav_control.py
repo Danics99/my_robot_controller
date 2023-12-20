@@ -262,25 +262,25 @@ class DroneControllerNode(Node):
         self.target_x += value * math.sin(self.normalize_angle(self.vehicle_local_position.heading))
         self.target_y -= value * math.cos(self.normalize_angle(self.vehicle_local_position.heading))
         self.update_setpoint_flags()
-        self.get_logger().info(f"Moving left {value} meters.")
+        self.get_logger().info(f"Going forward {value} meters.")
 
     def go_backward(self, value=1.0):
         self.target_x -= value * math.sin(self.normalize_angle(self.vehicle_local_position.heading))
         self.target_y += value * math.cos(self.normalize_angle(self.vehicle_local_position.heading))
         self.update_setpoint_flags()
-        self.get_logger().info(f"Moving right {value} meters.")
+        self.get_logger().info(f"Going backward {value} meters.")
     
     def move_right(self, value=1.0):
         self.target_x += value * math.cos(self.normalize_angle(self.vehicle_local_position.heading))
         self.target_y += value * math.sin(self.normalize_angle(self.vehicle_local_position.heading))
         self.update_setpoint_flags()
-        self.get_logger().info(f"Going backward {value} meters.")
+        self.get_logger().info(f"Moving right {value} meters.")
 
     def move_left(self, value=1.0):
         self.target_x -= value * math.cos(self.normalize_angle(self.vehicle_local_position.heading))
         self.target_y -= value * math.sin(self.normalize_angle(self.vehicle_local_position.heading))
         self.update_setpoint_flags()
-        self.get_logger().info(f"Going forward {value} meters.")
+        self.get_logger().info(f"Moving left {value} meters.")
 
     def normalize_angle(self, angle):
         # Normalize an angle to the range [-pi, pi)
