@@ -52,7 +52,6 @@ colcon build
     ``` 
 
 ## List of instructions
-|----------------|--------------------------------------------------------|
 | Take off       | Switch to offboard mode and launch the drone           |
 | Land           | Switch to landing mode                                 |
 | Go up          | Negative movement in the z-axis (NED frame)            |
