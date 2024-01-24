@@ -33,7 +33,7 @@ colcon build
 ```
 
 ## How to use
-1. Run trainBert.py to create BERT model
+1. Run trainBert.py to create BERT model (only the first time)
 2. In one terminal, run ```MicroXRCEAgent udp4 -p 8888``` to start MicroXRCEAgent
 3. To start PX4 SITL, open another terminal and run:
    ```
