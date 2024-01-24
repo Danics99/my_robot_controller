@@ -52,7 +52,7 @@ colcon build
     ``` 
 
 ## List of instructions
-| Instructio     |                                                        |
+| Instruction     |                                                        |
 |----------------|--------------------------------------------------------|
 | Take off       | Switch to offboard mode and launch the drone           |
 | Land           | Switch to landing mode                                 |
