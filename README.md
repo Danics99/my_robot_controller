@@ -24,7 +24,6 @@ Source the ROS 2 development environment and the local_setup.bash into the curre
 cd ..
 source /opt/ros/humble/setup.bash
 source install/local_setup.bash
-colcon build
 ```
 
 Compile the workspace using colcon:
