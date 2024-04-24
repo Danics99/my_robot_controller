@@ -36,7 +36,7 @@ colcon build
 2. In one terminal, run ```MicroXRCEAgent udp4 -p 8888``` to start MicroXRCEAgent
 3. To start PX4 SITL, open another terminal and run:
    ```
-   cd ~/cd PX4-Autopilot/
+   cd PX4-Autopilot/
    make px4_sitl gz_x500
    ```  
 4. To start the node that handles voice inputs, open another terminal and run:
